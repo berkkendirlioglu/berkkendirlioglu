@@ -23,6 +23,5 @@
 ---
 
 ## 📫 İletişim
-- <img width="40" height="40" alt="resim" src="https://github.com/user-attachments/assets/82a08188-14f2-4911-8065-c079cd95a9cf" />
- LinkedIn: (https://www.linkedin.com/in/berkkendirlioglu)  
+- <img width="20" height="20" alt="resim" src="https://github.com/user-attachments/assets/82a08188-14f2-4911-8065-c079cd95a9cf" /> LinkedIn: (https://www.linkedin.com/in/berkkendirlioglu)  
 - 📧 Mail: berk3774@gmail.com  
