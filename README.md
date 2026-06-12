@@ -9,7 +9,7 @@
 ## 💼 Yetenekler
 - **Frontend:** React, Next.js, TypeScript, JavaScript (ES6+), HTML5, CSS3, SASS, Tailwind CSS, Bootstrap  
 - **State Management:** Zustand, Redux  
-- **Backend (öğrenim aşamasında):** Node.js, Express, PostgreSQL  
+- **Backend:** Node.js, Express, PostgreSQL  
 - **Araçlar & Diğer:** Git, GitHub, REST API, AWS (temel), Vercel  
 
 ---
